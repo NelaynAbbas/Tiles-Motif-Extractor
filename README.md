@@ -156,5 +156,3 @@ If deployed, link your frontend here:
 ---
 
 > Built with ❤️ using React, Python, OpenCV, and YOLO.
-
-```
