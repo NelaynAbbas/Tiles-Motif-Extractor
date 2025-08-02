@@ -105,7 +105,7 @@ Here are some example outputs:
 
 | Input Tile Image              | Extracted Motifs                                |
 | ----------------------------- | ----------------------------------------------- |
-| ![](sample_tiles/sample1.jpg) | ![](outputs/motif1.jpg) ![](outputs/motif2.jpg) |
+| ![](![i2](https://github.com/user-attachments/assets/b0812317-5c89-4f0d-bff1-69d76670eb6e)) | ![](<img width="80" height="115" alt="motif_0" src="https://github.com/user-attachments/assets/5455177a-14e9-41ff-9cc0-0c7295ddd62b" />) ![](<img width="89" height="88" alt="motif_3" src="https://github.com/user-attachments/assets/0a017a0f-5527-4682-9869-4b8612aa17cd" />) |
 
 ---
 
