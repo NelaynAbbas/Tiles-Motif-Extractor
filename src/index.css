@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.upload-container {
+  margin: 20px auto;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 10px;
+}
+
+.motif-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.motif-gallery img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin: 10px;
+  background: #fff;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
