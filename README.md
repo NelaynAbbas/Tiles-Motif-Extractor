@@ -139,12 +139,6 @@ Contributions are welcome! Follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 🌐 Live Demo (Optional)
-
-If deployed, link your frontend here:
-➡️ [Live App](#)
 
 ---
 
